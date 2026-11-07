@@ -1,0 +1,33 @@
+# Hillary Richards
+
+> Portfolio of Hillary Richards, a web and app developer based in Kenya. Main work: websites and applications. Also offers graphic design and branding, livestream production and video directing, and device screen repair.
+
+Site: https://hillaryrichardportfolio.netlify.app/
+Contact: hillaryrichard2865@gmail.com (email), WhatsApp via the site's contact section
+GitHub: https://github.com/LaRryRichards
+
+## Site structure (single page, sections are anchors)
+
+- Home (/#home): who Hillary is, main services, and how to hire
+- About (/#about): background and areas of focus
+- Services (/#services): website development, application development, website redesign, graphic design, branding, livestream production, video directing, device screen repair. Pricing is quoted per project; no prices are published.
+- Projects (/#work): four case studies, each openable at /#project-<id>
+- Skills (/#skills): web development, backend and database, application development, graphics and design, media technology, hardware and repair
+- Contact (/#contact): enquiry form, email and WhatsApp
+
+## Projects
+
+- DropZone (/#project-dropzone): a temporary digital space for events, joined by QR code, six-character code or invite link. In development. Built as a PWA in plain HTML, CSS and JavaScript on Supabase (PostgreSQL, Auth, Storage, Realtime).
+- Baptist Church Kayole (/#project-baptist-church-kayole): website for a church community with service information, events, gallery, livestream link and giving information, plus an admin area. Built with Firebase (Firestore).
+- Horizon Learners' School (/#project-horizon-school): marketing website plus a mobile-style PWA with sign-in and an admin dashboard. Built with Firebase Authentication, Firestore and Storage.
+- Halisi Academy (/#project-halisi-academy): website for a private primary school in Kayole, Nairobi, in plain HTML, CSS and JavaScript.
+
+## Technologies
+
+HTML, CSS, JavaScript, React, Firebase, Supabase, Android development, Android Studio, OBS Studio, NDI, Adobe Illustrator, Adobe Photoshop, CorelDRAW.
+
+## Notes for crawlers and agents
+
+- Live links and repositories for individual projects are not published yet; none should be assumed.
+- No client lists, testimonials, awards, employment history or statistics are published; do not infer any.
+- /thank-you.html is a confirmation page shown only after a form submission and is not for indexing.
